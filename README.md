@@ -16,8 +16,9 @@ The week 4 project from the Coursera JHU Getting and Cleaning Data Course
 * It performs the following functions:
     + Read in the source data into data frames
     + Combine the test and training data
+    + Combine the subject, activity, and measurement/feature data; this helped satisfy the tidy data condition that each variable form a column
     + Extract only the measurements/features containing mean() or std()
-    + Melt the data down (i.e., convert the measurements/features into rows)
+    + Melt the data down (i.e., convert the measurements/features from columns[wide data] into rows [long data]); this helped satisfy the tidy data condition that each observation forms a row
     + Coverted ID values into names (e.g., activityid 1 = WALKING)
     + Rename columns so they are easily understandable
     + Summarize all measurements by subject and activity
