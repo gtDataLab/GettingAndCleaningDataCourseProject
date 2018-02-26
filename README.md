@@ -1,4 +1,4 @@
-# GettingAndCleaningDataCourseProject
+# Getting And Cleaning Data Course Project
 The week 4 project from the Coursera JHU Getting and Cleaning Data Course
 
 ## This repo contains the following:
